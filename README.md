@@ -1,6 +1,6 @@
 rpckids
 --
-RPC framework based on netty for kids
+基于Netty自己动手实现RPC框架
 
 Feature
 --
@@ -82,4 +82,4 @@ public class DemoClient {
 
 Discussion
 --
-关注公众号「码洞」，我们一起来聊聊这个框架
+
